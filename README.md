@@ -1,6 +1,4 @@
-<em># bbog-pb-automation-testing </em>
-
-Repositorio para la automatización de FrontEnd para el producto de Banca virtual del Banco de Bogotá.
+Repositorio para la automatización de kata Banco de Bogotá.
 
 ## Prerequisitos :pencil:
 
