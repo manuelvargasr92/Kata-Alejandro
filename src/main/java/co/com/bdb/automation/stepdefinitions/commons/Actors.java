@@ -4,5 +4,5 @@ import net.serenitybdd.screenplay.Actor;
 
 public class Actors {
     private Actors() { }
-    public static final Actor COMMON_ACTOR = Actor.named("Alejandro");
+    public static final Actor COMMON_ACTOR = Actor.named("AlejandroV");
 }
